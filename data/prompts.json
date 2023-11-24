@@ -1,0 +1,29 @@
+{
+    "Sample prompt": {
+        "blanks": ["name"],
+        "prompt": [
+            "Hello, ", 
+            "!!!"
+        ]
+    },
+    "Sample prompt 2": {
+        "blanks": [
+            "Adjective", 
+            "Noun", 
+            "Verb (past tense)", 
+            "Adverb", 
+            "Place", 
+            "Adjective", 
+            "Noun"
+        ],
+        "prompt": [
+            "Once upon a time, in a ",
+            " kingdom, there lived a(n) ",
+            " who ",
+            " through the forest. One day, the ",
+            " found a magical ",
+            " and entered a ",
+            " "
+        ]
+    }
+}
