@@ -8,4 +8,5 @@ A webapp to create fun MadLibs with prompts using React.js and Flask
 - Replayability
 - Github pages hosting?
 - Add sentiment analysis for fun
+- Think of a better name :sob:
 
