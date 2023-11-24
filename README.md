@@ -5,6 +5,7 @@ A webapp to create fun MadLibs with prompts using React.js and Flask
 - CSS :pray:
 - Add custom titleing based on input
 - Allow repeated use of words for multiple parts of prompt
+- Add more prompts
 - Replayability
 - Github pages hosting?
 - Add sentiment analysis for fun
